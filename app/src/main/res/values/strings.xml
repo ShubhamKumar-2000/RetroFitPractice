@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RetroFitPractice</string>
+    <string name="api_url">https://api.weatherapi.com</string>
+</resources>
